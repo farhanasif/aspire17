@@ -1,0 +1,25 @@
+{
+  "name": "aspire17",
+  "version": "1.0.0",
+  "description": "another express framework for work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanasif/aspire17.git"
+  },
+  "keywords": [
+    "aspire17"
+  ],
+  "author": "farhan asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanasif/aspire17/issues"
+  },
+  "homepage": "https://github.com/farhanasif/aspire17#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
